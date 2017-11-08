@@ -1,0 +1,330 @@
+{
+    "version": {
+        "cache_version": "147639",
+        "cache_time": "30"
+    },
+    "destinations": [
+        {
+            "id": 1,
+            "name": "Hanoi",
+            "thumb": "https://dev.luxstay.net/img/home_cities/home_city_1477072427.jpg?w=280&h=195&q=80&fit=crop&v=147639?w=150&h=150&fit=crop&v=147639",
+            "stype": "",
+            "sid": ""
+        },
+        {
+            "id": 14,
+            "name": "Ho Chi Minh",
+            "thumb": "https://dev.luxstay.net/img/home_cities/home_city_1476904750.jpeg?w=280&h=195&q=80&fit=crop&v=147639?w=150&h=150&fit=crop&v=147639",
+            "stype": "",
+            "sid": ""
+        },
+        {
+            "id": 28,
+            "name": "DA NANG",
+            "thumb": "https://dev.luxstay.net/img/home_cities/home_city_1484541754.jpg?w=280&h=195&q=80&fit=crop&v=147639?w=150&h=150&fit=crop&v=147639",
+            "stype": "",
+            "sid": ""
+        },
+        {
+            "id": 16,
+            "name": "Hoa Binh",
+            "thumb": "https://dev.luxstay.net/img/home_cities/home_city_1476905297.jpg?w=280&h=195&q=80&fit=crop&v=147639?w=150&h=150&fit=crop&v=147639",
+            "stype": "",
+            "sid": ""
+        },
+        {
+            "id": 27,
+            "name": "VUNG TAU",
+            "thumb": "https://dev.luxstay.net/img/home_cities/home_city_1479985140.jpg?w=280&h=195&q=80&fit=crop&v=147639?w=150&h=150&fit=crop&v=147639",
+            "stype": "",
+            "sid": ""
+        }
+    ],
+    "phone": "+84473034488",
+    "payment_gateway": [
+        {
+            "bank_name": "Vietcombank",
+            "bank_id": "0011 0011 8 5555",
+            "bank_address": "VCB Sở giao dịch",
+            "bank_icon": "https://dev.luxstay.net/images/logos/payments/VCB.jpg"
+        },
+        {
+            "bank_name": "Ngân Hàng TMCP Á Châu (ACB)",
+            "bank_id": "604568888",
+            "bank_address": "Chi Nhánh Trần Duy Hưng",
+            "bank_icon": "https://dev.luxstay.net/images/logos/payments/ACB.jpg"
+        }
+    ],
+    "amenities_type": [
+        {
+            "id": 1,
+            "name": "Families",
+            "amenities": [
+                {
+                    "id": 47,
+                    "type_id": 1,
+                    "name": "No smoking"
+                },
+                {
+                    "id": 52,
+                    "type_id": 1,
+                    "name": "Extra mattress"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Kitchen Facilities",
+            "amenities": [
+                {
+                    "id": 4,
+                    "type_id": 2,
+                    "name": "Babies/ Toddlers welcome"
+                },
+                {
+                    "id": 6,
+                    "type_id": 2,
+                    "name": "Oven"
+                },
+                {
+                    "id": 7,
+                    "type_id": 2,
+                    "name": "Microwave"
+                },
+                {
+                    "id": 8,
+                    "type_id": 2,
+                    "name": "Fridge/ Freezer"
+                },
+                {
+                    "id": 49,
+                    "type_id": 2,
+                    "name": "Stove"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Entertainment",
+            "amenities": [
+                {
+                    "id": 3,
+                    "type_id": 3,
+                    "name": "Pets welcome"
+                },
+                {
+                    "id": 5,
+                    "type_id": 3,
+                    "name": "Grilling BBQ"
+                },
+                {
+                    "id": 10,
+                    "type_id": 3,
+                    "name": "Natural surround"
+                },
+                {
+                    "id": 12,
+                    "type_id": 3,
+                    "name": "Beach view"
+                },
+                {
+                    "id": 13,
+                    "type_id": 3,
+                    "name": "Golf"
+                },
+                {
+                    "id": 15,
+                    "type_id": 3,
+                    "name": "Fishing"
+                },
+                {
+                    "id": 48,
+                    "type_id": 3,
+                    "name": "Pool"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Luxstay complimentary amenities",
+            "amenities": [
+                {
+                    "id": 17,
+                    "type_id": 4,
+                    "name": "Wifi"
+                },
+                {
+                    "id": 27,
+                    "type_id": 4,
+                    "name": "TV"
+                },
+                {
+                    "id": 53,
+                    "type_id": 4,
+                    "name": "Towels"
+                },
+                {
+                    "id": 55,
+                    "type_id": 4,
+                    "name": "Toothpaste"
+                },
+                {
+                    "id": 56,
+                    "type_id": 4,
+                    "name": "Toiletries"
+                },
+                {
+                    "id": 57,
+                    "type_id": 4,
+                    "name": "Napkins"
+                },
+                {
+                    "id": 58,
+                    "type_id": 4,
+                    "name": "Mineral water"
+                },
+                {
+                    "id": 72,
+                    "type_id": 4,
+                    "name": "Shampoo, Conditioning"
+                },
+                {
+                    "id": 81,
+                    "type_id": 4,
+                    "name": "Soap"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Room Facilities",
+            "amenities": [
+                {
+                    "id": 22,
+                    "type_id": 6,
+                    "name": "Balcony"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Facilities",
+            "amenities": [
+                {
+                    "id": 50,
+                    "type_id": 8,
+                    "name": "Air-conditioning"
+                },
+                {
+                    "id": 51,
+                    "type_id": 8,
+                    "name": "Washing machine"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Other",
+            "amenities": [
+                {
+                    "id": 82,
+                    "type_id": 10,
+                    "name": "Breakfast"
+                },
+                {
+                    "id": 83,
+                    "type_id": 10,
+                    "name": "Wifi"
+                },
+                {
+                    "id": 84,
+                    "type_id": 10,
+                    "name": "Kitchen Facilities"
+                },
+                {
+                    "id": 85,
+                    "type_id": 10,
+                    "name": "Heating"
+                },
+                {
+                    "id": 86,
+                    "type_id": 10,
+                    "name": "Buzzer/wireless intercom"
+                },
+                {
+                    "id": 87,
+                    "type_id": 10,
+                    "name": "TV"
+                },
+                {
+                    "id": 88,
+                    "type_id": 10,
+                    "name": "Free parking on premises"
+                },
+                {
+                    "id": 89,
+                    "type_id": 10,
+                    "name": "Internet"
+                },
+                {
+                    "id": 90,
+                    "type_id": 10,
+                    "name": "Dryer"
+                },
+                {
+                    "id": 91,
+                    "type_id": 10,
+                    "name": "Indoor fireplace"
+                },
+                {
+                    "id": 92,
+                    "type_id": 10,
+                    "name": "Babies/Toddlers welcome"
+                },
+                {
+                    "id": 93,
+                    "type_id": 10,
+                    "name": "Essentials"
+                },
+                {
+                    "id": 94,
+                    "type_id": 10,
+                    "name": "Fire extinguisher"
+                },
+                {
+                    "id": 95,
+                    "type_id": 10,
+                    "name": "Crib"
+                }
+            ]
+        }
+    ],
+    "room_types": [
+        {
+            "name": "Entire home/apt",
+            "id": 1
+        },
+        {
+            "name": "Private room",
+            "id": 2
+        },
+        {
+            "name": "Shared room",
+            "id": 3
+        }
+    ],
+    "property_type": [
+        {
+            "name": "Apartment",
+            "id": 1
+        },
+        {
+            "name": "Villa",
+            "id": 9
+        },
+        {
+            "name": "Studio",
+            "id": 28
+        }
+    ]
+}
